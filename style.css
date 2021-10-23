@@ -1,0 +1,8 @@
+div {
+  outline: thin blue solid;
+}
+
+span {
+  outline: thin red solid;
+  margin: 4px;
+}
